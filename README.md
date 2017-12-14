@@ -3,4 +3,6 @@ Power Kernel Projects
 
 Static content hosting for Power Kernel's projects.
 
-Source [https://github.com/powerkernel/powerkernel.github.io](https://github.com/powerkernel/powerkernel.github.io)
+GitHub page: [https://powerkernel.github.io](https://powerkernel.github.io)
+
+Source: [https://github.com/powerkernel/powerkernel.github.io](https://github.com/powerkernel/powerkernel.github.io)

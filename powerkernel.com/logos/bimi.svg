@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F99D1C;}
-</style>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128" overflow="visible" xml:space="preserve">
+<title>Power Kernel</title>
 <g id="Layer_2_1_">
 	<g id="Layer_1-2">
-		<path class="st0" d="M60.1,100.1H39.4l13.3-35.2H43l-13.3,35.2h-4.3l0,0h-0.8c-9.9,0-17.9-8.1-17.9-18c0-9.1,6.8-16.7,15.9-17.8
-			c-3-16.9,8.3-32.9,25.1-35.9c13.6-2.4,27.1,4.5,33.2,16.8L60.1,100.1z M60.5,84l7.3-19.2h-9.7L50.8,84H60.5z"/>
-		<path class="st1" d="M93.2,44.8c15.3-0.3,27.9,11.8,28.2,27.1s-11.8,27.9-27.1,28.2c-0.4,0-0.7,0-1.1,0h-24L90,45
-			C91.1,44.9,92.1,44.8,93.2,44.8z"/>
+		<path fill-rule="evenodd" fill="#00AEEF" d="M60.1,100.1H39.4l13.3-35.2H43l-13.3,35.2h-4.3l0,0h-0.8c-9.9,0-17.9-8.1-17.9-18
+			c0-9.1,6.8-16.7,15.9-17.8c-3-16.9,8.3-32.9,25.1-35.9c13.6-2.4,27.1,4.5,33.2,16.8L60.1,100.1z M60.5,84l7.3-19.2h-9.7L50.8,84
+			H60.5z"/>
+		<path fill-rule="evenodd" fill="#F99D1C" d="M93.2,44.8c15.3-0.3,27.9,11.8,28.2,27.1s-11.8,27.9-27.1,28.2c-0.4,0-0.7,0-1.1,0
+			h-24L90,45C91.1,44.9,92.1,44.8,93.2,44.8z"/>
 	</g>
 </g>
 </svg>
